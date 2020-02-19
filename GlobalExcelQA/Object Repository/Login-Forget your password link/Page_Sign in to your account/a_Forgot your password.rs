@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot your password</name>
+   <tag></tag>
+   <elementGuidId>111ddead-baee-456f-b99f-9e5ee5b3402b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cred_forgot_password_link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cred_forgot_password_link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://passwordreset.microsoftonline.com:443/?ru=https%3a%2f%2flogin.microsoftonline.com%2fgecopvautaadb2cqvca001.onmicrosoft.com%2freprocess%3fctx%3drQIIAbWRP4jTYBjGm6St51Hw0OUW4QZ1ENp8adprKRSs1_RPaBJr0obU6Uv6Jf16-dMmX69_BicRcXKuCHKDw40OIm4OLgfCjSJOooNOcpOjzeJ8yw3vszy_94H3fe4yXI6r3DLNPMwjHmatIiplCzaA2XIZgexmOHvI2xZnF8Lr2zutT8JpI_2x9ebVz3fjvvNjTd1xkBVMjuCMQDg089b0yIIAcLnA97AVBlFgk5wVeCfUoxEhk6jCsm7gYD_33w18F_soZliC2IulscGGGOXZWEMUTd5T1BlFPaeTHOD5NZ1CfranvqapE3rXP4j4Ql1dcPsr4TAU-1074hq1avUrfU2pxSGxBCFeoXM6NZ2hcLlmXlIqgQQ9CIMJCglGURUtRU3tdbGCxUJH51YdXZ5DHRDLk_YHerdgjIXiQJeIXH_oDTAASt31OpqzkpoGUeoGL-mxbyyMVQ-08Rz3BVdojwMsNxsjQ6st5GZ7sysfKioAstblO7o4knWDyHpjLDVFV9KEouT1x20fvGUu-PJTJoM8iN29zRU-Hn5hqO_MjSnk7zluYEIXLSzkxtxZkvqdzACmsrW1vZPYTewl_iap49Sm7c_fbp73bj9uPTku_5IyTxOnKfa-uQRzzoFNWzRVZaqVliZviCWjB-yBWysZzmx0gPpFbdiKqqDCvUin_6TpZ1cSH65eZv__AA2&amp;mkt=en-US&amp;hosted=0&amp;device_platform=Windows+10&amp;nca=1&amp;domain_hint=gecopvautaadb2cqvca001.onmicrosoft.com&amp;username=qa3%40globalexcel.com</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot your password?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cta_error_message_text&quot;)/div[@id=&quot;recover_container&quot;]/p[2]/a[@id=&quot;cred_forgot_password_link&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cred_forgot_password_link']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='recover_container']/p[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot your password?')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('We don', &quot;'&quot;, 't recognize this user ID or password')])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We have a new sign-in experience!'])[1]/following::a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type the email address of the account you want to sign in with.'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to {0}'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot your password?']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://passwordreset.microsoftonline.com:443/?ru=https%3a%2f%2flogin.microsoftonline.com%2fgecopvautaadb2cqvca001.onmicrosoft.com%2freprocess%3fctx%3drQIIAbWRP4jTYBjGm6St51Hw0OUW4QZ1ENp8adprKRSs1_RPaBJr0obU6Uv6Jf16-dMmX69_BicRcXKuCHKDw40OIm4OLgfCjSJOooNOcpOjzeJ8yw3vszy_94H3fe4yXI6r3DLNPMwjHmatIiplCzaA2XIZgexmOHvI2xZnF8Lr2zutT8JpI_2x9ebVz3fjvvNjTd1xkBVMjuCMQDg089b0yIIAcLnA97AVBlFgk5wVeCfUoxEhk6jCsm7gYD_33w18F_soZliC2IulscGGGOXZWEMUTd5T1BlFPaeTHOD5NZ1CfranvqapE3rXP4j4Ql1dcPsr4TAU-1074hq1avUrfU2pxSGxBCFeoXM6NZ2hcLlmXlIqgQQ9CIMJCglGURUtRU3tdbGCxUJH51YdXZ5DHRDLk_YHerdgjIXiQJeIXH_oDTAASt31OpqzkpoGUeoGL-mxbyyMVQ-08Rz3BVdojwMsNxsjQ6st5GZ7sysfKioAstblO7o4knWDyHpjLDVFV9KEouT1x20fvGUu-PJTJoM8iN29zRU-Hn5hqO_MjSnk7zluYEIXLSzkxtxZkvqdzACmsrW1vZPYTewl_iap49Sm7c_fbp73bj9uPTku_5IyTxOnKfa-uQRzzoFNWzRVZaqVliZviCWjB-yBWysZzmx0gPpFbdiKqqDCvUin_6TpZ1cSH65eZv__AA2&amp;mkt=en-US&amp;hosted=0&amp;device_platform=Windows+10&amp;nca=1&amp;domain_hint=gecopvautaadb2cqvca001.onmicrosoft.com&amp;username=qa3%40globalexcel.com')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

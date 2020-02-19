@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Aberon Rayonu  Acabdi Rayonu  Adam R_41ea4c</name>
+   <tag></tag>
+   <elementGuidId>07679ceb-30ef-4768-94ac-665589ca8634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='State']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>State</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>State</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Abşeron Rayonu  Ağcabǝdi Rayonu  Ağdam Rayonu  Ağdaş Rayonu  Ağstafa Rayonu  Ağsu Rayonu  Astara Rayonu  Bakı Şähäri  Balakǝn Rayonu  Bǝrdǝ Rayonu  Beylǝqan Rayonu  Bilǝsuvar Rayonu  Cǝbrayıl Rayonu  Cǝlilabad Rayonu  Daşkǝsǝn Rayonu  Dǝvǝçi Rayonu  Əli Bayramlı Şǝhǝri  Füzuli Rayonu  Gǝdǝbǝy Rayonu  Gǝncǝ Şǝhǝri  Goranboy Rayonu  Göyçay Rayonu  Hacıqabul Rayonu  İmişli Rayonu  İsmayıllı Rayonu  Kǝlbǝcǝr Rayonu  Kürdǝmir Rayonu  Laçın Rayonu  Lǝnkǝran Rayonu  Lǝnkǝran Şǝhǝri  Lerik Rayonu  Masallı Rayonu  Mingǝcevir Şǝhǝri  Naftalan Şǝhǝri  Naxçıvan Muxtar Respublikası  Neftçala Rayonu  Oğuz Rayonu  Qax Rayonu  Qazax Rayonu  Qǝbǝlǝ Rayonu  Qobustan Rayonu  Quba Rayonu  Qubadlı Rayonu  Qusar Rayonu  Saatlı Rayonu  Sabirabad Rayonu  Salyan Rayonu  Şamaxı Rayonu  Samux Rayonu  Şǝki Rayonu  Şǝki Şǝhǝri  Şǝmkir Rayonu  Siyǝzǝn Rayonu  Sumqayıt Şǝhǝri  Şuşa Rayonu  Şuşa Şǝhǝri  Tǝrtǝr Rayonu  Tovuz Rayonu  Ucar Rayonu  Xaçmaz Rayonu  Xankǝndi Şǝhǝri  Xanlar Rayonu  Xızı Rayonu  Xocalı Rayonu  Xocavǝnd Rayonu  Yardımlı Rayonu  Yevlax Rayonu  Yevlax Şǝhǝri  Zaqatala Rayonu  Zǝngilan Rayonu  Zǝrdab Rayonu </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;State&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='State']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contactsModal']/div/div/div[2]/div/div[9]/div/div/div/div[2]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State:'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country:'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code:'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attention:'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div[2]/select</value>
+   </webElementXpaths>
+</WebElementEntity>
